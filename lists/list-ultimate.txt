@@ -18,7 +18,6 @@ cloudflare-quic.com
 cloudflare.com
 cloudflare.net
 cloudflare-ipfs.com
-cloud
 cloudflare-stream.com
 cloudflare-tv.com
 cloudflare-access.com
